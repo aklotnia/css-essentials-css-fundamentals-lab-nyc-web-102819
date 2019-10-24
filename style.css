@@ -17,4 +17,18 @@ a {
   background-color: gray;
 }
 
+figcaption {
+  font-size: 10px;
+  text-align: center;
+}
+
+#featured-property > p {
+  width: 800px;
+  text-align: center;
+}
+
+#details {
+  display: block;
+  float: left;
+}
 
